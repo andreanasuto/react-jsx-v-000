@@ -1,9 +1,1 @@
-import React from 'react'
-
-class Foo extends React.Component {
-  render() {
-    return (
-      
-    )
-  }
-}
+export const message = "I am a component!";
